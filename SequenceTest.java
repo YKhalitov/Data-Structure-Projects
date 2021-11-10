@@ -1,4 +1,3 @@
-// Yaroslav Khalitov
 // This program uses DoubleArraySequence.java and tests its methods
 
 import java.util.*;
