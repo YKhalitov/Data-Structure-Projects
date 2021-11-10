@@ -1,5 +1,4 @@
 // File: DoubleArraySeq.java 
-// Name: Yaroslav Khalitov
 // This is an assignment for students to complete after reading Chapter 3 of
 // "Data Structures and Other Objects Using Java" by Michael Main.
 
