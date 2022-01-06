@@ -1,6 +1,7 @@
-// File: Yaroslav Khalitov
+// Name: Yaroslav Khalitov
 // File: Node.java
-// Class: CSC 103 
+// Class: CSC 103
+// Description: 
 // Complete documentation is available from the Node link in:
 //   http://www.cs.colorado.edu/~main/docs
 
