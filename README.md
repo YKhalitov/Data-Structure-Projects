@@ -1,8 +1,8 @@
 # Double Array Sequence
-My project that stores doubles in an array in a specified order.
+Stores doubles in an array in a specified order.
 
 # Unbounded Int
-My project that can store & perform basic calculations on an extremely large numbers.
+Stores & performs basic calculations on an extremely large numbers.
 Stored using nodes.
 
 # Queen Simulation
